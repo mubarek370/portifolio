@@ -88,9 +88,8 @@ Here is the folder structure of this app.
   |- .gitignore
   |- index.html
   |- netlify.toml
+  |- package-lock.json
   |- package.json
-  |- pnpm-lock.yaml
-  |- pnpm-workspace.yaml
   |- tsconfig.json
   |- vite.config.ts
 ```
@@ -206,7 +205,7 @@ Useful resources and dependencies that are used in 3D Portfolio.
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^4.3.3
 - [three](https://www.npmjs.com/package/three): ^0.186.1
 - [three-stdlib](https://www.npmjs.com/package/three-stdlib): ^2.36.1
-- [typescript](https://www.npmjs.com/package/typescript): ^7.0.2
+- [typescript](https://www.npmjs.com/package/typescript): ^5.8.2
 - [vite](https://www.npmjs.com/package/vite): ^8.3.5
 
 <!--- DEPENDENCIES_END --->
